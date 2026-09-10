@@ -101,7 +101,7 @@ These areas allow management to visually investigate potential expansion and pro
 
 ### Interactive Tableau Dashboard
 
-**[View the Interactive Tableau Dashboard]((https://public.tableau.com/app/profile/michael.cline4297/viz/RetailProductPerformanceAnalysis_17889461538390/Sheet1))**
+**[View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/michael.cline4297/viz/RetailProductPerformanceAnalysis_17889461538390/Sheet1)**
 
 ---
 
