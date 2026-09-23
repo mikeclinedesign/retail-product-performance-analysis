@@ -192,7 +192,7 @@ The dashboard includes:
 - Year-over-year sales growth
 - Interactive store filtering
 
-![Power BI Dashboard](PowerBI_Dashboard_RSPD.png)
+![Power BI Dashboard](![Retail Store Performance Dashboard](power-bi/PowerBI_Dashboard_RSPD.png)
 
 [View Power BI project files](power-bi/)
 
