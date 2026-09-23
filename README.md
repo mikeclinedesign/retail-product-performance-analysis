@@ -15,10 +15,10 @@ The project uses **Excel, Tableau, and PostgreSQL** to demonstrate the complete 
 
 ## Tools Used
 
-- **Microsoft Excel** – Data cleaning, transformation, calculations, pivot tables, and exploratory analysis
-- **Tableau Public** – Interactive product performance visualization and threshold analysis
-- **PostgreSQL / pgAdmin** – SQL querying and product/store-level analysis
-- **GitHub** – Project documentation and portfolio presentation
+- Microsoft Excel — data cleaning, exploratory analysis, and pivot tables
+- PostgreSQL / SQL — data validation and analytical queries
+- Tableau — interactive data visualization
+- Power BI — DAX measures, KPI development, interactive filtering, and dashboard reporting
 
 ---
 
@@ -179,6 +179,22 @@ This enables decision-makers to test different performance expectations and imme
 A distribution benchmark of **12 stores** was used to distinguish broadly distributed products from products with greater potential distribution availability.
 
 ---
+## Power BI Dashboard
+
+An interactive Power BI dashboard was developed to provide management with a simplified view of store performance.
+
+The dashboard includes:
+
+- Total Sales, Gross Profit, and Gross Margin KPIs
+- Quarterly sales trend analysis
+- Department-level sales performance
+- Prior-year sales comparisons
+- Year-over-year sales growth
+- Interactive store filtering
+
+![Power BI Dashboard](PowerBI_Dashboard_RSPD.png)
+
+[View Power BI project files](power-bi/)
 
 ## Repository Structure
 
