@@ -91,7 +91,7 @@ The dashboard allows users to:
 
 The dashboard was designed to turn product-level sales data into actionable inventory and distribution decisions. Rather than simply showing which products sold the most units, the analysis considers both **sales performance per store** and **distribution reach** to identify products that may benefit from expanded distribution or reduced shelf presence.
 
-![Product Performance Dashboard](images/Tableau_Dashboard_Retailanalysis.png)
+![Product Performance Dashboard](Images/Tableau_Dashboard_Retailanalysis.png)
 
 ### Interactive Tableau Dashboard
 
