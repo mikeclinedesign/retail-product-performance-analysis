@@ -76,28 +76,22 @@ This provides a simple way to identify products with strong performance but limi
 
 ## Tableau Dashboard
 
-The cleaned dataset was imported into Tableau to create an interactive version of the product performance analysis.
+I developed an interactive Tableau dashboard to evaluate product performance and distribution across 15 retail locations.
 
-The visualization plots:
+The dashboard allows users to:
 
-- **Stores Carrying** on the X-axis
-- **Average Units per Store** on the Y-axis
-- Individual products as marks
+- Filter products by average sales per store and number of stores carrying the product.
+- Compare total unit sales across products using an interactive ranked bar chart.
+- Select individual products to generate a dynamic product assessment.
+- Identify expansion opportunities for products performing well with limited distribution.
+- Identify removal opportunities for products performing poorly despite wide distribution.
+- Classify products into actionable recommendations including expansion, maintain, monitor, and removal categories.
 
-A distribution reference line was placed at **12 stores**.
+### Business Purpose
 
-An adjustable **Performance Threshold** parameter was also created, allowing the user to change the performance benchmark rather than relying on a fixed statistical cutoff.
+The dashboard was designed to turn product-level sales data into actionable inventory and distribution decisions. Rather than simply showing which products sold the most units, the analysis considers both **sales performance per store** and **distribution reach** to identify products that may benefit from expanded distribution or reduced shelf presence.
 
-This creates four conceptual areas within the visualization:
-
-- High performance / Limited distribution
-- High performance / Broad distribution
-- Low performance / Limited distribution
-- Low performance / Broad distribution
-
-These areas allow management to visually investigate potential expansion and product-review opportunities without automatically classifying products.
-
-![Tableau Product Performance Dashboard](Images/tableau_product_performance.png)
+![Product Performance Dashboard](images/Tableau_Dashboard_Retailanalysis.png)
 
 ### Interactive Tableau Dashboard
 
@@ -179,22 +173,6 @@ This enables decision-makers to test different performance expectations and imme
 A distribution benchmark of **12 stores** was used to distinguish broadly distributed products from products with greater potential distribution availability.
 
 ---
-## Power BI Dashboard
-
-An interactive Power BI dashboard was developed to provide management with a simplified view of store performance.
-
-The dashboard includes:
-
-- Total Sales, Gross Profit, and Gross Margin KPIs
-- Quarterly sales trend analysis
-- Department-level sales performance
-- Prior-year sales comparisons
-- Year-over-year sales growth
-- Interactive store filtering
-
-![Power BI Dashboard](![Retail Store Performance Dashboard](power-bi/PowerBI_Dashboard_RSPD.png)
-
-[View Power BI project files](power-bi/)
 
 ## Repository Structure
 
